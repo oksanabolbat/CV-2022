@@ -448,7 +448,7 @@ textarea {
 body {
     max-width: 1090px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #f1f9fb;
 
     
     color: #323136;
@@ -468,7 +468,7 @@ a:hover{
 }
 
 header, main,footer{
-    background-color: #f1f9fb;
+    background-color: #fff;
     padding:0 30px;
 }
 .container {
